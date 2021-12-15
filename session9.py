@@ -53,5 +53,3 @@ class Polygon_Sequence:
         
             
             
-a=Polygon_Sequence(10,3)
-print(a)
