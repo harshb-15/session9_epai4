@@ -1,4 +1,4 @@
-from session9_epai4.Objective1 import Polygon
+from Objective1 import Polygon
 class Polygon_Sequence:
     def __init__(self,edges, radius):
         self.circumradius=radius
